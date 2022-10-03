@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947299304881",
+    "project_id": "mova-4641a",
+    "storage_bucket": "mova-4641a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947299304881:android:de5b53e691b56a6e8d2990",
+        "android_client_info": {
+          "package_name": "com.nobar.mova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947299304881-as1cgflfhs475dbjveggptt3lp9pkaa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nobar.mova",
+            "certificate_hash": "ac6775975ec05e32af85617004ce9a7d4a9808c6"
+          }
+        },
+        {
+          "client_id": "947299304881-609agee8uatten21a2735dlciubidh0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6-JiQBPp3k_3Vwa2QqA47-oHCjX9WwC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947299304881-609agee8uatten21a2735dlciubidh0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
